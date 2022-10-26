@@ -1,4 +1,4 @@
-# template-operator
+# Template Operator
 This documentation and template serve as a reference to implement a module (component) operator, for integration with the [lifecycle-manager](https://github.com/kyma-project/lifecycle-manager/tree/main/operator).
 It utilizes the [kubebuilder](https://book.kubebuilder.io/) framework with some modifications to implement Kubernetes APIs for custom resource definitions (CRDs).
 Additionally, it hides Kubernetes boilerplate code to develop fast and efficient control loops in Go.
